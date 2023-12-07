@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. Mechatronics and electrical engineering, University of Stuttgart, 2016-2019
+* M.Sc. Mechatronics, Robotics and AI, University of Stuttgart, 2019-2022
+* Ph.D Student in ML and Autonomous Systmes, KIT, 2023 in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
 ======
