@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.Sc. Mechatronics and electrical engineering, University of Stuttgart, 2016-2019
+* Ph.D Student in ML and Autonomous Systems at Intelligent Robot Perceptionn Institute, KIT, 2023 (expected)
 * M.Sc. Mechatronics, Robotics and AI, University of Stuttgart, 2019-2022
-* Ph.D Student in ML and Autonomous Systmes, KIT, 2023 in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. Mechatronics and Electrical Engineering, University of Stuttgart, 2016-2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* Machine Learning Research Engineer (Full-time), Karlsruhe, Germany                                                 Nov 2022 - Present
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
