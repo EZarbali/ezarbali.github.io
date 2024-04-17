@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Machine Learning Research Engineer (Full-time), Karlsruhe, Germany (Nov 2022 - Present *XITASO IT & Software Solutions GmbH*
+* Machine Learning Research Engineer (Full-time), Karlsruhe, Germany (Nov 2022 - Present) \*XITASO IT & Software Solutions GmbH*
   * Contributing to research on robust 3D multimodal perception in autonomous flight systems
   * Increased model performance of automotive electronics lifetime forecasting by 11% introducing SSL techniques
   * Planned and managed research of two projects with multiple employees
