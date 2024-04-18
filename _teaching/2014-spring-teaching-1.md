@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "Self-Supervised Learning in Vision"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Postgraduade/Masters guest lecture"
+permalink: /teaching/SSL-Vision
+venue: "Ruhr-Universität Bochum"
+date: 2024-02-01
+location: "Bochum, Germany"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+In the guest lecture we delved into the fundamentals of modern self-supervised learning frameworks in computer vision. Why and how instance discrimination works and why exactly it is more robust than traditional supervised learning. 
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
