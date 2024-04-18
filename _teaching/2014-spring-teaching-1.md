@@ -10,3 +10,5 @@ location: "Bochum, Germany"
 
 In the guest lecture we delved into the fundamentals of modern self-supervised learning frameworks in computer vision. Why and how instance discrimination works and why exactly it is more robust than traditional supervised learning. 
 
+[Download guest-lecture here](http://ezarbali.github.io/files/SSL_Lecture_2024_Zarbali.pdf)
+
