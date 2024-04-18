@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D Student in ML and Autonomous Systems at Intelligent Robot Perceptionn Institute, KIT, 2027 Spring (expected)
-* M.Sc. Mechatronics, Robotics and AI, University of Stuttgart, 2019-2022
-* B.Sc. Mechatronics and Electrical Engineering, University of Stuttgart, 2016-2019
+* **Ph.D Candidate** in ML and Autonomous Systems at Intelligent Robot Perceptionn Institute, KIT, 2027 Spring (expected)
+* **M.Sc.** Mechatronics, Robotics and AI, University of Stuttgart, 2019-2022
+* **B.Sc.** Mechatronics and Electrical Engineering, University of Stuttgart, 2016-2019
 
 Work experience
 ======
